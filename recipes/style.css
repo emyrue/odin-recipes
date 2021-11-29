@@ -1,4 +1,5 @@
 *{
+    background-color: aliceblue;
     font-family: "Helvetica", "Times New Roman", sans-serif;
 }
 .header{
@@ -10,7 +11,12 @@
 }
 .link{
     color: black;
+    background-color: lightcoral;
 }
 .ingredients{
     background-color: lightblue;
+}
+.photo{
+    height: 500px;
+    width: auto;
 }
