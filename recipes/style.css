@@ -4,7 +4,12 @@
 }
 .header{
     font-size: 50px;
+    font-weight: bold;
     background-color: blueviolet;
+    text-align: center;
+    border: 30px solid blue;
+    width: 600px;
+    margin: auto;
 }
 .button{
     background-color: lightcoral;
